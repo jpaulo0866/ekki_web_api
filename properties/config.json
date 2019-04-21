@@ -1,0 +1,7 @@
+{
+    "secret": "jkldskfydskuyfsdçlfsdãsd",
+    "expirationToken": "1h",
+    "DB": {
+        "connString": "mongodb://localhost:27017/ekki_collections"
+    }
+}
