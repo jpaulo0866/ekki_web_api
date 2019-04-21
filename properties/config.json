@@ -2,6 +2,6 @@
     "secret": "jkldskfydskuyfsdçlfsdãsd",
     "expirationToken": "1h",
     "DB": {
-        "connString": "mongodb+srv://joaosa:mjn#jd143@schmidtcluster-mjtff.mongodb.net/ekki_collections?retryWrites=true"
+        "connString": "mongodb+srv://joaosa:mjnjd143@schmidtcluster-mjtff.mongodb.net/ekki_collections?retryWrites=true"
     }
 }
